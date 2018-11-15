@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/Customize Automatically Generated Columns/MainPage.xaml) (VB: [MainPage.xaml](./VB/Customize Automatically Generated Columns/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/Customize Automatically Generated Columns/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/Customize Automatically Generated Columns/MainPage.xaml))
+<!-- default file list end -->
 # How to Customize Automatically Generated Columns
 
 
